@@ -140,3 +140,4 @@ docker run -p 8080:8080 \
 ```
 
 > **Tip:** `host.docker.internal` permite que el contenedor Docker alcance PostgreSQL en tu PC local (Windows/Mac). En Linux usa `--network host`.
+"# tienda-tech" 
